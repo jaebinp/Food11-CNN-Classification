@@ -1,4 +1,4 @@
-# Food11-CNN-Classification
+## Food11-CNN-Classification
 Classifying food images into 11 categories using convolutional neural networks, data augmentation, and transfer learning
 
 The dataset contains 16643 images of food in 11 different categories. The categories are as follows:
